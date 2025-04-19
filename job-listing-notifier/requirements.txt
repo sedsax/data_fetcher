@@ -1,0 +1,5 @@
+selenium
+pandas
+schedule
+smtplib
+email-validator
